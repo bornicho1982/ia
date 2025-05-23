@@ -1,0 +1,38 @@
+# Caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+venv/
+env/
+.Python
+.conda
+
+# My project
+.vscode/
+.idea/
+*.sqlite3
+*.db
+!*.sqlite3-journal
+
+# Logs
+*.log
+*.log.[0-9]
+*.log.[0-9][0-9]
+*.log.old
+*.log.bak
+
+# Backup files
+*.bak
+*.orig
+*.swp
+*~
+.#*
+
+# OS Generated Files
+.DS_Store
+.Trash
+Thumbs.db
